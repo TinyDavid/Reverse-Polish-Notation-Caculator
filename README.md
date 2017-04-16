@@ -56,7 +56,8 @@ test_rpn_caculator.py
 - Test:
 1. Run the unit test: `python test_rpn_caculator.py -v`
 2. The common-line will output the test result:
-   testInsufficientParameters (__main__.TestRNPCaculatorBadInput) ... operator * (p
+
+        testInsufficientParameters (__main__.TestRNPCaculatorBadInput) ... operator * (p
         osition: 15): insufficient parameters
         ok
         testInvalidInput (__main__.TestRNPCaculatorBadInput) ... ok
