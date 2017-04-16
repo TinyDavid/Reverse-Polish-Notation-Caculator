@@ -26,8 +26,8 @@ class RPNCaculator(object):
             '*': [operator.mul,operator.truediv,2],
             '/': [operator.truediv,operator.mul,2],
             'sqrt': [math.sqrt,math.pow,1],
-            'undo':['undo',None,0],
-            'clear':['clear',None,0]
+            'undo':['undo',None,1],
+            'clear':['clear',None,1]
     }
     
     def __init__(self):
