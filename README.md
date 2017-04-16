@@ -41,9 +41,9 @@ After displaying the warning, all further processing of the string terminates an
 ## Usage
 
 Unzip the file tech_programming_test_rpn.zip in the destination directory with secured password "anz_p2ssword":
-README.md
-rpn_caculator.py
-test_rpn_caculator.py
+1. README.md
+2. rpn_caculator.py
+3. test_rpn_caculator.py
 
 
 - Run:
