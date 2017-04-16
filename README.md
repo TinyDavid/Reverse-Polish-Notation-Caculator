@@ -1,6 +1,6 @@
 # Reverse Polish Notation Caculator
 Command-line based RPN calculator, based on [http://en.wikipedia.org/wiki/Reverse_Polish_notation](http://en.wikipedia.org/wiki/Reverse_Polish_notation),
-support
+support two cases:
 - one operand and then an operator(`sqrt`, `undo`, `clear`)
 - two operands and then an operator(`+`, `-`, `*`, `/`, `sqrt`, `undo`, `clear`)
 
