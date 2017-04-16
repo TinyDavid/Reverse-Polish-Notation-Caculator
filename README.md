@@ -47,15 +47,15 @@ test_rpn_caculator.py
 
 
 - Run:
-1, change to destination directory: `cd dir(destination directory)` 
-2, Run the caculator: `python rpn_caculator.py`
-3, Input the numbers or operators into the Command-line and Enter: `5 2 -`
-4, Output will print the result in the Command-line: stack: 3.0000000000
-5, Can continue test with other input, input 'quit','q', or 'exit' can quit the programe.
+1. change to destination directory: `cd dir(destination directory)` 
+2. Run the caculator: `python rpn_caculator.py`
+3. Input the numbers or operators into the Command-line and Enter: `5 2 -`
+4. Output will print the result in the Command-line: stack: 3.0000000000
+5. Can continue test with other input, input 'quit','q', or 'exit' can quit the programe.
 
 - Test:
-1, Run the unit test: `python test_rpn_caculator.py -v`
-2, The common-line will output the test result:
+1. Run the unit test: `python test_rpn_caculator.py -v`
+2. The common-line will output the test result:
    testInsufficientParameters (__main__.TestRNPCaculatorBadInput) ... operator * (p
         osition: 15): insufficient parameters
         ok
